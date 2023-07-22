@@ -1,0 +1,27 @@
+{
+  "name": "freetime",
+  "version": "1.0.0",
+  "description": "We are excited to be taking the next steps with you as a candidate! Our team has a straight forward code challenge for you to complete. We value your time, and while you are free to spend as much time on the challenge as you wish, we expect it to be completable _within three hours_. This challenge is not-timed, and we will consider your solution independent of however long it took to complete. If you need more than 5 days in total to complete the code challenge, please let us know so that we can plan accordingly.",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awaisaltaf123/freeTime.git"
+  },
+  "jest": {
+  "collectCoverage":true
+  },
+  "author": "Awais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awaisaltaf123/freeTime/issues"
+  },
+  "homepage": "https://github.com/awaisaltaf123/freeTime#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "jest": "^29.6.1"
+  }
+}
