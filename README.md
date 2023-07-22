@@ -31,7 +31,7 @@ The folder structure of this app is explained below:
 | **package json**            | Contains all the info related to the project setup and any packages that are installed |
 | **app**                     | The main file where the project is running                                             |
 | **input/order_example.csv** | Contains the csv of the data.                                                          |
-| **helper/helperFunctions**  | All the helper function are put here.                                                  |
+| **helper/helperFunctions**  | All the helper functions are put here.                                                  |
 
 ### Running the build
 
@@ -53,9 +53,12 @@ The tests are written in jest
 
 # Process Flow Diagram
 
+![processDiagram](https://github.com/awaisaltaf123/freeTime/assets/98595364/33fee3d5-8d4c-4628-a537-6c391311ae01)
+
 # Assumptions
 
-Following are the assumption that are been made
+Following is the assumption that is been made
+
 
 1. The CSV file will not contain any empty fields; all data entries will be complete and valid.
 2. The CSV file will always be located within the same folder as the application.
